@@ -8,7 +8,8 @@ https://www.youtube.com/watch?v=xhi1EP-eZoE&list=PLGT3zkaISdQ9hS-ohF-9p2d555NeDl
 https://www.youtube.com/watch?v=kOH7meeRMBk&list=PLGT3zkaISdQ-lekJx8PDuyTSScozwJjuB
 
 ## Part 3
-### Will be updated later 
+### Machine learning
+https://www.youtube.com/watch?v=pGi687N0IzE&list=PLGT3zkaISdQ8LYIIkrfsgEEC2NP7mFJYk
 
 # B. Feel Free to Download Recording Using savefrom.net
 ## Step 1 
