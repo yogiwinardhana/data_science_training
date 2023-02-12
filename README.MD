@@ -22,4 +22,4 @@ https://www.ssyoutube.com/watch?v=xhi1EP-eZoE&list=PLGT3zkaISdQ9hS-ohF-9p2d555Ne
 
 # C. Download Jupyter Notebook Source Code and PPT Files
 ## Total size : 1.6 GB <br>
-https://geosai.my.id/xyz/main.zip
+https://eu2.contabostorage.com/dd1cd7c25d95466386d8a3029e2049eb:storage1/geeklurn_materials/geeklurn_materials2.zip
