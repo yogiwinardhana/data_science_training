@@ -13,7 +13,8 @@ https://www.youtube.com/watch?v=pGi687N0IzE&list=PLGT3zkaISdQ8LYIIkrfsgEEC2NP7mF
 
 ## Part 4
 ### PowerBI
-https://youtube.com/playlist?list=PLGT3zkaISdQ_eDXBwonva_BPzBSQpOMNm
+playlist : https://youtube.com/playlist?list=PLGT3zkaISdQ_eDXBwonva_BPzBSQpOMNm
+materials : https://eu2.contabostorage.com/dd1cd7c25d95466386d8a3029e2049eb:storage1/geeklurn_materials/powerBI_file.rar
 
 # B. Feel Free to Download Recording Using savefrom.net
 ## Step 1 
