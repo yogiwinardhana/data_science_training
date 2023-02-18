@@ -11,6 +11,10 @@ https://www.youtube.com/watch?v=kOH7meeRMBk&list=PLGT3zkaISdQ-lekJx8PDuyTSScozwJ
 ### Machine learning
 https://www.youtube.com/watch?v=pGi687N0IzE&list=PLGT3zkaISdQ8LYIIkrfsgEEC2NP7mFJYk
 
+## Part 4
+### PowerBI
+https://youtube.com/playlist?list=PLGT3zkaISdQ_eDXBwonva_BPzBSQpOMNm
+
 # B. Feel Free to Download Recording Using savefrom.net
 ## Step 1 
 Get youtube video URL, for example: <br>
